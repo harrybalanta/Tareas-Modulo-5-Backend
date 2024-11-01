@@ -1,0 +1,31 @@
+{
+  "name": "proyecto-tarea",
+  "version": "1.2.0",
+  "description": "Esta es la descripción del proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrybalanta/Tareas-Modulo-5-Backend.git"
+  },
+  "keywords": [
+    "actividad",
+    "-",
+    "estudio"
+  ],
+  "author": "Harrinson-Balanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrybalanta/Tareas-Modulo-5-Backend/issues"
+  },
+  "homepage": "https://github.com/harrybalanta/Tareas-Modulo-5-Backend#readme",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "harrison-tarea-4",
+  "version": "1.0.4",
+  "description": "Tarea 4",
+  "main": "index.js",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "dev": "node --watch generator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrison Balanta",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

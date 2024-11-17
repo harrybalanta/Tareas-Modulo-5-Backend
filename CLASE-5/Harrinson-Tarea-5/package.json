@@ -1,0 +1,12 @@
+{
+  "name": "harrinson-tarea-5",
+  "version": "1.0.5",
+  "description": "tarea 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node calculadora.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrinson balanta",
+  "license": "ISC"
+}
